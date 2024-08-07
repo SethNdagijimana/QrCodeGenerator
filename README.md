@@ -7,4 +7,5 @@ this project help you to generate your own qr code for your business easy and fa
 
 ### Deployment
 
+https://snapcodegen.vercel.app/
 
